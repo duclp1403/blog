@@ -1,0 +1,11 @@
+﻿Các công việc cần làm nè:
+- Bố cục template
+- Trang trí css
+- Đưa vài bài demo
+- Code js cho nút button-menu
+- Cắt ra React
+- Build csdl
+- Viết query
+- Build server
+- Deploy
+- Done
